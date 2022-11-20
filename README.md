@@ -6,6 +6,7 @@
 ![изображение](https://user-images.githubusercontent.com/99546572/202892436-81019178-c852-4bfc-85bd-5486be8788b5.png)  
 ![изображение](https://user-images.githubusercontent.com/99546572/202892487-27617b62-bab7-456e-8373-63405f399b3c.png)  
 # Полная документация: http://localhost:{port}/swagger-ui/index.html#/  
+## Используемое api для получения курса валют в настоящее время: https://github.com/Tinkoff/invest-api-java-sdk  
 # Стек  
 - Java 17.0  
 - Spring Boot  
