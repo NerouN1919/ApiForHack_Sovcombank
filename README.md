@@ -1,5 +1,4 @@
 # api for hackaton by Sovcombank    
-## API for app  
 # Structure of DataBase:  
 ![изображение](https://user-images.githubusercontent.com/99546572/202892392-7c30a555-504c-44f2-a28c-ec15ad500e8e.png)  
 # Список доступных HTTP запросов:  
