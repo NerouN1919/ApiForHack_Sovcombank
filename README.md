@@ -13,7 +13,7 @@
 - Spring Security  
 - Spring Data JPA  
 - PostgreSQL  
-- ngrok  
+- NginX  
 - Kubernetes  
 - Docker  
 # Backend разработчик -- Сергей Свириденко  
